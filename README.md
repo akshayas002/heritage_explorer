@@ -18,17 +18,13 @@
 - HuggingFace Transformers for NLP
 - langdetect for language detection
 
+--- 
+
 ## Installation
 
+---
 ```bash
 git clone https://github.com/your-username/heritage-explorer.git
 cd heritage-explorer
 pip install -r requirements.txt
 
----
-
-## Usage
-
-```bash
-streamlit run heritage_explorer.py
-Open http://localhost:8501 in your browser to access the app.
